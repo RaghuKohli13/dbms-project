@@ -198,7 +198,7 @@ VALUES
 (9309,9209,9009,9109,DATE_SUB(CURDATE(), INTERVAL 2 DAY),45,'Grounding techniques practiced.',4,1),
 (9310,9210,9010,9110,DATE_SUB(CURDATE(), INTERVAL 1 DAY),60,'Regular check-in; stable.',8,0);
 
--- (Rest tables same pattern — already safe)
+
 
 COMMIT;
 -- function of count of total appointments
