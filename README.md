@@ -20,7 +20,7 @@ Technologies Used:
 
 Project Files:
 
-* database.sql → Contains database schema, tables, and queries
+* dbms_final_project.sql → Contains database schema, tables, and queries
 * report.pdf → Complete project report and documentation
 
 Authors:
